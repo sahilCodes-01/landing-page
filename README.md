@@ -1,2 +1,2 @@
 # landing-page
-The first landing page for oding project
+The first landing page for odin project
